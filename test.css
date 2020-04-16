@@ -22,7 +22,8 @@ font-weight: bold;
 }
 p{
 color: white;
-font-family:"Arial"
+font-family:"Arial";
+font-weight: bold;
 }
 #Header h1{
 font-size: 60px;
