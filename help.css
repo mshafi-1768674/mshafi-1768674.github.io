@@ -1,0 +1,28 @@
+body{
+background-image: url("webb.png");
+}
+h1{
+font-size: 48px;
+color: pink;
+font-weight: bold;
+text-align: center;
+}
+h2{
+text-align: center;
+color: white;
+border: 4px solid gray;
+background-color: gray;
+}
+legend{
+font-family: Courier New;
+font-weight: bold;
+}
+fieldset{
+ text-shadow: 2px 2px white;
+margin-left: auto;
+margin-right: auto;
+margin-bottom 10px;
+border: solid 1px black;
+background-color: #F0F8FF;
+padding: 15px;
+}
