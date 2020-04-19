@@ -1,7 +1,37 @@
 body {
-background-color: lightblue;
+background-color: #F0F8FF;
 }
-
 h2 {
-  color: navy;
+color: navy;
+text-align: center;
+border: 4px dotted black;
+background-color: gray;
+}
+h3{
+font-family: Courier New;
+}
+h4{
+font-family: Helvetica;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.paris {
+  position: absolute;
+  left: 100%;
+  transform: translate(-50%, -50%);
+  }
+.bread{
+margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 2px;
+  margin-left: 20px;
 }
